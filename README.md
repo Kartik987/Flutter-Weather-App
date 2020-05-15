@@ -2,7 +2,7 @@
 
 A Flutter project.
 
-# Visit these resources to learn about the flutter and api features this application uses.
+# Visit these resources for any help in the flutter and api this application uses.
 api: https://openweathermap.org/
 flutter: https://flutter.dev/docs/cookbook
 material design: https://material.io/resources/icons/?style=baseline
